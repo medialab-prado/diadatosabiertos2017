@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   transform="translate(0, 0)"
+   id="logoContainer"
+   height="180"
+   width="240"
+   version="1.1"
+   sodipodi:docname="logo_madrid_retocado.svg"
+   inkscape:version="0.92.0 r15299">
+  <metadata
+     id="metadata4866">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4864" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview4862"
+     showgrid="false"
+     inkscape:zoom="1.3111111"
+     inkscape:cx="120"
+     inkscape:cy="90"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="logoContainer" />
+  <g
+     style="opacity:1"
+     id="g4835">
+    <text
+       style="font-weight:bold;font-size:10px;font-family:'Noto Sans';text-anchor:middle;fill:#333333"
+       id="text4831"
+       class="oddtext"
+       font-size="10px"
+       font-weight="bold"
+       y="150"
+       x="120">Open Data Day</text>
+    <text
+       style="font-weight:bold;font-size:16px;font-family:'Noto Sans';text-anchor:middle;fill:#333333"
+       id="text4833"
+       class="label"
+       font-size="16px"
+       font-weight="bold"
+       y="170"
+       x="120">Madrid, Spain</text>
+  </g>
+  <g
+     style="opacity:1"
+     id="g4839">
+    <path
+       style="fill:none;stroke:#999999;stroke-width:2"
+       inkscape:connector-curvature="0"
+       id="path4837"
+       class="dataLines"
+       d="m 70,67.777778 50,13.333333 45,4.444445" />
+  </g>
+  <g
+     style="opacity:1"
+     id="g4845">
+    <circle
+       style="fill:none;stroke:#ffbf00;stroke-width:6"
+       id="circle4841"
+       class="circleL"
+       cx="70"
+       cy="67.777779"
+       r="25.555555" />
+    <circle
+       style="fill:#ffbf00"
+       id="circle4843"
+       class="circleS"
+       cx="70"
+       cy="67.777779"
+       r="4" />
+  </g>
+  <path
+     d="M 138.19467,80.847452 110.4494,96.866202 V 64.828712 Z"
+     class="circleL"
+     id="path4847"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#ff0040;stroke-width:6" />
+  <circle
+     r="4"
+     cy="81.111115"
+     cx="120"
+     class="circleS"
+     id="circle4849"
+     style="fill:#ff0040" />
+  <path
+     d="M 189.15782,85.423723 154.06251,105.68601 V 65.161443 Z"
+     class="circleL"
+     id="path4853"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#0080ff;stroke-width:6" />
+  <circle
+     r="4"
+     cy="85.555557"
+     cx="165"
+     class="circleS"
+     id="circle4855"
+     style="fill:#0080ff" />
+</svg>
