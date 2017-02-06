@@ -1,0 +1,69 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: 
+#+TAGS: 
+#+DESCRIPTION: 
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: 
+#+DATE: [2016-12-16 mié 16:00]
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+#+LATEX_HEADER: \maketitle
+#+LATEX_HEADER: \tableofcontents
+
+El día de los datos abiertos es la celebración anual de los datos abiertos alrededor del mundo. Por quinta vez en la convocatoria internacional y por tercera en Medialab-Prado, grupos de todo el mundo crean eventos locales en este día. Vente al día de los datos abiertos a Medialab-Prado el sábado 4 de marzo a las 10 de la mañana.
+
+Las comunidades de datos utilizan el día de los datos abiertos para sensibilizar a la población sobre su uso y sus posibilidades. Para ello, las distintas comunidades se juntan para crear aplicaciones, visualizaciones, liberar datos o publicar análisis sobre el estado de los datos abiertos. Es una oportunidad para mostrar los beneficios de los datos abiertos y fomentar la adopción de políticas de datos en gobiernos, iniciativa privada y sociedad civil.
+
+#+CAPTION: Imagen del logo del Día de los Datos Abiertos, personalizado para Madrid #+ATTR_HTML: :alt Open Data Day Madrid :title Open Data Day Madrid
+file:///logo_madrid_retocado.svg.png
+
+Todos los trabajos que se realizan son abiertos para usarse y re-usarse. La convocatoria internacional ha propuesto cuatro áreas claves sobre las que trabajar y una que añadimos nosotrxs:
+
+1. Datos abiertos de investigación
+2. Rastro de los flujos del dinero público
+3. Datos abiertos sobre medio ambiente
+4. Datos abiertos sobre derechos humanos
+5. La España vacía
+
+* La España vacía
+
+/La España vacía/ es la temática propuesta para el [[http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia][V taller de producción de periodismo de datos]] que celebraremos en tres fines de semana de abril, mayo y junio de 2017 y cuya [[http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia-convocatoria-de-proyectos][convocatoria de proyectos]] se encuentra abierta desde el 2 de febrero hasta el 5 de marzo. En esta edición, os animamos a que las propuestas sean en abierto y puedan trabajarse previamente los conjuntos de datos con los que realizar los proyectos.
+
+Tanto si tu proyecto está falto de datos como si los tiene muy consolidados, os animamos a empezar a compartirlos este día.
+
+* Participa en el día de los datos abiertos
+
+No te importe si tienes una idea o proyecto distinto de los referidos. Si tienes una idea que use datos abiertos, quieres encontrar un proyecto interesante para contribuir, aprender sobre cómo visualizar o analizar datos o simplemente quieres ver lo que está pasando, entonces ¡tienes que venir! La participación es un valor central del hackatón, no importa qué habilidades tengas o cuáles sean tus intereses.
+
+Te esperamos en el Auditorio de Medialab-Prado a partir de las 10 de la mañana del sábado 4 de marzo de 2017. 
+
+No olvides visitar la [[http://opendataday.org][web oficial]] y la [[https://docs.google.com/spreadsheets/d/1cV43fuzwy2q2ZKDWrHVS6XR4O8B01eLevh4PD6nCENE/edit#gid%3D98436325][lista completa de eventos]]. 
+
+* ¿Qué llevar?
+
+¡Cualquier cosa! Lleva tu portátil, laptop, celular o cualquier otro dispositivo. Pero, sobre todo, tu energía y tu cerebro. Estamos intentando hacer muy práctico este evento, entonces siéntete con la libertad de traer todos tus locos dispositivos 
+
+* Proyectos
+
+Si crees que encontraste un dataset que es interesante y podría ser útil para una app o una visualización, agrégalo a la wiki..
+La Wiki
+
+está evolucionando constantemente, pero aún necesita ayuda. Únete y comienza a contribuir a la wiki al agregar tu nombre a la lista de gente interesada en la organización o participación en una ciudad, o alguna otra información valiosa relacionada con los datos abiertos.
