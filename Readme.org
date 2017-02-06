@@ -33,7 +33,7 @@ El día de los datos abiertos es la celebración anual de los datos abiertos alr
 Las comunidades de datos utilizan el día de los datos abiertos para sensibilizar a la población sobre su uso y sus posibilidades. Para ello, las distintas comunidades se juntan para crear aplicaciones, visualizaciones, liberar datos o publicar análisis sobre el estado de los datos abiertos. Es una oportunidad para mostrar los beneficios de los datos abiertos y fomentar la adopción de políticas de datos en gobiernos, iniciativa privada y sociedad civil.
 
 #+CAPTION: Imagen del logo del Día de los Datos Abiertos, personalizado para Madrid #+ATTR_HTML: :alt Open Data Day Madrid :title Open Data Day Madrid
-file:///logo_madrid_retocado.svg.png
+https://github.com/medialab-prado/diadatosabiertos2017/blob/master/logo_madrid_retocado.svg.png
 
 Todos los trabajos que se realizan son abiertos para usarse y re-usarse. La convocatoria internacional ha propuesto cuatro áreas claves sobre las que trabajar y una que añadimos nosotrxs:
 
