@@ -67,3 +67,19 @@ Si crees que encontraste un dataset que es interesante y podría ser útil para 
 La Wiki
 
 está evolucionando constantemente, pero aún necesita ayuda. Únete y comienza a contribuir a la wiki al agregar tu nombre a la lista de gente interesada en la organización o participación en una ciudad, o alguna otra información valiosa relacionada con los datos abiertos.
+
+
+
+# Bienvenidxs a la wiki del Día de los Datos Abiertos 2017
+
+    Cuándo: <2017-03-04 sáb 10:00-15:00>
+    Dónde: Medialab Prado, Plaza de las Letras, C/ de la Alameda, 15, 28014, Madrid
+    Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+    URL: http://medialab-prado.es/article/dia-de-los-datos-abiertos-2017
+
+#Proyectos 2016 (actualizar para 2017)
+
+    Farolas de Madrid
+    RERA
+    Sistemas parlamentarios
+
