@@ -4,31 +4,17 @@
 #+DESCRIPTION: 
 #+AUTHOR: Adolfo Antón Bravo
 #+EMAIL: adolfo@medialab-prado.es
-#+TITLE: 
+#+TITLE: Día de los Datos Abiertos Madrid 2017
 #+DATE: [2016-12-16 mié 16:00]
-#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
-#+TOC: headlines 2
-#+LATEX_HEADER: \usepackage[english]{babel}
-#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
-#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
-#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
-#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
-#+OPTIONS: reveal_width:1200 reveal_height:800
-#+REVEAL_MARGIN: 0.1
-#+REVEAL_MIN_SCALE: 0.5
-#+REVEAL_MAX_SCALE: 2.5
-#+REVEAL_TRANS: linear
-#+REVEAL_THEME: sky
-#+REVEAL_HLEVEL: 2
-#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
-#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
-#+REVEAL_PLUGINS: (highlight notes)
-#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
-#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
-#+LATEX_HEADER: \maketitle
-#+LATEX_HEADER: \tableofcontents
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil toc:nil
 
 El día de los datos abiertos es la celebración anual de los datos abiertos alrededor del mundo. Por quinta vez en la convocatoria internacional y por tercera en Medialab-Prado, grupos de todo el mundo crean eventos locales en este día. Vente al día de los datos abiertos a Medialab-Prado el sábado 4 de marzo a las 10 de la mañana.
+
+
+- Cuándo: <2017-03-04 sáb 10:00-15:00>
+- Dónde: Medialab Prado, Plaza de las Letras, C/ de la Alameda, 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: http://medialab-prado.es/article/dia-de-los-datos-abiertos-2017
 
 Las comunidades de datos utilizan el día de los datos abiertos para sensibilizar a la población sobre su uso y sus posibilidades. Para ello, las distintas comunidades se juntan para crear aplicaciones, visualizaciones, liberar datos o publicar análisis sobre el estado de los datos abiertos. Es una oportunidad para mostrar los beneficios de los datos abiertos y fomentar la adopción de políticas de datos en gobiernos, iniciativa privada y sociedad civil.
 
@@ -63,23 +49,13 @@ No olvides visitar la [[http://opendataday.org][web oficial]] y la [[https://doc
 
 * Proyectos
 
-Si crees que encontraste un dataset que es interesante y podría ser útil para una app o una visualización, agrégalo a la wiki..
-La Wiki
+Si crees que encontraste un dataset que es interesante y podría ser útil para una app o una visualización, [[https://github.com/medialab-prado/diadatosabiertos2017/edit/master/Readme.org][edita esta página]] y propón un cambio.
 
-está evolucionando constantemente, pero aún necesita ayuda. Únete y comienza a contribuir a la wiki al agregar tu nombre a la lista de gente interesada en la organización o participación en una ciudad, o alguna otra información valiosa relacionada con los datos abiertos.
+Este es el listado de proyectos que se desarrollaron en 2016:
 
+- Farolas de Madrid, por OEG
+- RERA
+- Sistemas parlamentarios
 
-
-# Bienvenidxs a la wiki del Día de los Datos Abiertos 2017
-
-    Cuándo: <2017-03-04 sáb 10:00-15:00>
-    Dónde: Medialab Prado, Plaza de las Letras, C/ de la Alameda, 15, 28014, Madrid
-    Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
-    URL: http://medialab-prado.es/article/dia-de-los-datos-abiertos-2017
-
-#Proyectos 2016 (actualizar para 2017)
-
-    Farolas de Madrid
-    RERA
-    Sistemas parlamentarios
+¿Te atreves a buscar datos y liberarlos con nosotrxs?
 
