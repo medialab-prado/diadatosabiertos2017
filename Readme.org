@@ -59,3 +59,24 @@ Este es el listado de proyectos que se desarrollaron en 2016:
 
 ¿Te atreves a buscar datos y liberarlos con nosotrxs?
 
+* Propuestas 2017
+
+Vocabularios para la iniciativa OjoAlData100
+
+El año anterior dentro de la iniciativa OjoAlData100 se definieron algunos conjuntos de datos que se considera que las ciudades deben tener publicados en sus portales de datos abiertos, a partir de este trabajo la idea es seleccionar uno de estos conjuntos de datos y trabajar en la construcción de un vocabulario que pueda ser utilizado por los Ayuntamientos de España para publicar datos dentro de sus portales OpenData.
+
+Objetivos
+- Dado un determinado conjunto de datos detectar los atributos comunes que los Ayuntamientos de Madrid tienen publicados o deberían publicar en sus portales y a partir de esto generar un vocabulario.
+- Generar ejemplos de cómo deberían publicarse estos datos.
+- Diseñar alguna aplicación que pueda beneficiarse de la utilización de estos datos.
+
+Equipo
+- María Poveda-Villalón, ontologías
+- Paola Espinoza, informática, aprendiendo ontologías
+
+Usaremos
+- OWL
+- Html
+- Github
+
+Las ideas y sugerencias que se les ocurran acerca de este tema son bienvenidas, esperamos la colaboración de todos.
