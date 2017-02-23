@@ -61,22 +61,44 @@ Este es el listado de proyectos que se desarrollaron en 2016:
 
 * Propuestas 2017
 
-Vocabularios para la iniciativa OjoAlData100
+** Vocabularios para la iniciativa OjoAlData100
 
 El año anterior dentro de la iniciativa OjoAlData100 se definieron algunos conjuntos de datos que se considera que las ciudades deben tener publicados en sus portales de datos abiertos, a partir de este trabajo la idea es seleccionar uno de estos conjuntos de datos y trabajar en la construcción de un vocabulario que pueda ser utilizado por los Ayuntamientos de España para publicar datos dentro de sus portales OpenData.
 
-Objetivos
+*** Objetivos
 - Dado un determinado conjunto de datos detectar los atributos comunes que los Ayuntamientos de Madrid tienen publicados o deberían publicar en sus portales y a partir de esto generar un vocabulario.
 - Generar ejemplos de cómo deberían publicarse estos datos.
 - Diseñar alguna aplicación que pueda beneficiarse de la utilización de estos datos.
 
-Equipo
+*** Equipo
 - María Poveda-Villalón, ontologías
 - Paola Espinoza, informática, aprendiendo ontologías
 
-Usaremos
+*** Usaremos
 - OWL
 - Html
 - Github
 
 Las ideas y sugerencias que se les ocurran acerca de este tema son bienvenidas, esperamos la colaboración de todos.
+
+** Editatona de Mujeres Viajeras
+
+Coordinado por Patricia Horrillo, requiere inscripción previa en formulario aparte (próximamente)
+** RERA
+
+Coordinado por @flowsta, tratará de liberar los datos de los ficheros RERA, Registros de Empresas con Riesgo de Amianto
+
+* Agenda
+
+- 09:30, Bienvenida y networking
+- 09:45, Presentación de la agenda del día
+- 09:50, Presentación de proyectos
+- 10:05, Presentación de colaboradorxs
+- 10:15, Formación de equipos.
+- 10:30, Taller de [[http://openclio.org/][Open Clio]], /una cronología universal online/, con Julio Pérez Díaz (CCHS, CSIC) y Javier Galeano Prieto (ETSIAB, UPM)
+
+* Open Clio
+
+[[http://openclio.org/][Open Clio]] se define como una herramienta para la construcción de cronologías. Propone un banco de datos dual, que combine "nodos históricos" y vínculos entre tales nodos. Se pueden seleccionar o crear tales elementos y establecer vínculos.
+
+Parten de una definición operativa del "evento histórico", lo más económica y polivalente posible, con la que empezar a crear ítems, y desarrollar una primera versión para ensayar la capacidad del sistema, su configuración más conveniente y posibles desarrollos futuros.
