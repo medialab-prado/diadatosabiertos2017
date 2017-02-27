@@ -80,6 +80,8 @@ El año anterior dentro de la iniciativa OjoAlData100 se definieron algunos conj
 - OWL
 - Html
 - Github
+- Protégé
+- OnToology
 
 Las ideas y sugerencias que se les ocurran acerca de este tema son bienvenidas, esperamos la colaboración de todos.
 
