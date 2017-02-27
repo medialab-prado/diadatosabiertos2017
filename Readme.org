@@ -18,8 +18,10 @@ El día de los datos abiertos es la celebración anual de los datos abiertos alr
 
 Las comunidades de datos utilizan el día de los datos abiertos para sensibilizar a la población sobre su uso y sus posibilidades. Para ello, las distintas comunidades se juntan para crear aplicaciones, visualizaciones, liberar datos o publicar análisis sobre el estado de los datos abiertos. Es una oportunidad para mostrar los beneficios de los datos abiertos y fomentar la adopción de políticas de datos en gobiernos, iniciativa privada y sociedad civil.
 
-#+CAPTION: Imagen del logo del Día de los Datos Abiertos, personalizado para Madrid #+ATTR_HTML: :alt Open Data Day Madrid :title Open Data Day Madrid
-https://github.com/medialab-prado/diadatosabiertos2017/blob/master/logo_madrid_retocado.svg.png
+#+BEGIN_HTML
+<img src="https://github.com/medialab-prado/diadatosabiertos2017/blob/master/logo_madrid_retocado.svg.png" alt="Imagen del logo del Día de los Datos Abiertos, personalizado para Madrid" title="Open Data Day Madrid" />
+
+#+END_HTML
 
 Todos los trabajos que se realizan son abiertos para usarse y re-usarse. La convocatoria internacional ha propuesto cuatro áreas claves sobre las que trabajar y una que añadimos nosotrxs:
 
@@ -53,11 +55,11 @@ Si crees que encontraste un dataset que es interesante y podría ser útil para 
 
 Este es el listado de proyectos que se desarrollaron en 2016:
 
-- Farolas de Madrid, por OEG
-- RERA
-- Sistemas parlamentarios
+- Farolas de Madrid, por Óscar Corcho de OEG-UPM
+- RERA, por @flowsta
+- Parlamentos de cristal, por Javier Urrea
 
-¿Te atreves a buscar datos y liberarlos con nosotrxs?
+¿Te atreves a buscar datos y liberarlos con nosotrxs? Mira las propuestas para este año:
 
 * Propuestas 2017
 
@@ -83,7 +85,7 @@ Las ideas y sugerencias que se les ocurran acerca de este tema son bienvenidas, 
 
 ** Editatona de Mujeres Viajeras
 
-Coordinado por Patricia Horrillo, requiere inscripción previa en formulario aparte (próximamente)
+Coordinado por Patricia Horrillo, [[http://medialab-prado.es/article/editatona-sobre-viajeras-en-wikipedia-4m][requiere inscripción previa]]. Una editatona o maratón de edición es una actividad en la que varias personas se juntan con el objetivo de crear contenido nuevo en la Wikipedia, la enciclopedia libre. En esta ocasión, con motivo del [[https://es.wikipedia.org/wiki/D%25C3%25ADa_Internacional_de_la_Mujer][Día Internacional de la Mujer]] y aprovechando que estamos en el [[http://media.unwto.org/es/press-release/2015-12-10/las-naciones-unidas-proclaman-2017-ano-internacional-del-turismo-sostenible][Año Internacional del Turismo Sostenible para el Desarrollo]], han decidido dedicar una jornada a las las *mujeres viajeras y exploradoras* para hacer visible la ausencia de contenido relacionado con ellas y compartir la necesidad de que eso cambie. Contarán con la historiadora [[http://medialab-prado.es/person/pilar-tejera][Pilar Tejera]], creadora del portal [[http://mujeresviajeras.com][mujeresviajeras.com]] y que hablará sobre la invisibilización de las mujeres en este ámbito.
 ** RERA
 
 Coordinado por @flowsta, tratará de liberar los datos de los ficheros RERA, Registros de Empresas con Riesgo de Amianto
