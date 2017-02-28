@@ -97,8 +97,13 @@ Coordinado por @flowsta, tratará de liberar los datos de los ficheros RERA, Reg
 - 09:50, Presentación de proyectos
 - 10:05, Presentación de colaboradorxs
 - 10:15, Formación de equipos.
-- 10:30, Taller de [[http://openclio.org/][Open Clio]], /una cronología universal online/, con Julio Pérez Díaz (CCHS, CSIC) y Javier Galeano Prieto (ETSIAB, UPM)
-
+- 10:30-11:30, Trabajo en equipo y Taller de [[http://openclio.org/][Open Clio]], /una cronología universal online/, con Julio Pérez Díaz (CCHS, CSIC) y Javier Galeano Prieto (ETSIAB, UPM)
+- 11:30-12:30, trabajo en equipo
+- 12:30-13:00, Conexión con otras ciudades
+- 13:00-14:00, Conversación con Christian Iaione: profesor agregado de Políticas Públicas en la Universidad Guglielmo Marconi de Roma, investigador en el Urban Law Center de la Fordham University y profesor visitante en la Universidad LUISS Guido Carli donde dirige el LabGov – LABoratory for the GOVernance of the Commons.
+- 14:00-15:00, descanso para comer (opcional)
+- 15:00-18:00, trabajo en equipo
+- 18:00-18:30, presentaciones de proyectos.
 * Open Clio
 
 [[http://openclio.org/][Open Clio]] se define como una herramienta para la construcción de cronologías. Propone un banco de datos dual, que combine "nodos históricos" y vínculos entre tales nodos. Se pueden seleccionar o crear tales elementos y establecer vínculos.
