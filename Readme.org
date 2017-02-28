@@ -8,58 +8,34 @@
 #+DATE: [2016-12-16 mié 16:00]
 #+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil toc:nil
 
-El día de los datos abiertos es la celebración anual de los datos abiertos alrededor del mundo. Por quinta vez en la convocatoria internacional y por tercera en Medialab-Prado, grupos de todo el mundo crean eventos locales en este día. Vente al día de los datos abiertos a Medialab-Prado el sábado 4 de marzo a las 10 de la mañana.
+El día de los datos abiertos es la celebración anual de los datos abiertos alrededor del mundo. Por quinta vez en la convocatoria internacional y por tercera en Medialab-Prado, grupos de todo el mundo crean eventos locales en este día. Vente al día de los datos abiertos a Medialab-Prado el sábado 4 de marzo de 9:30 a 18:30.
 
 
 - Cuándo: <2017-03-04 sáb 10:00-15:00>
 - Dónde: Medialab Prado, Plaza de las Letras, C/ de la Alameda, 15, 28014, Madrid
 - Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
 - URL: http://medialab-prado.es/article/dia-de-los-datos-abiertos-2017
-
-Las comunidades de datos utilizan el día de los datos abiertos para sensibilizar a la población sobre su uso y sus posibilidades. Para ello, las distintas comunidades se juntan para crear aplicaciones, visualizaciones, liberar datos o publicar análisis sobre el estado de los datos abiertos. Es una oportunidad para mostrar los beneficios de los datos abiertos y fomentar la adopción de políticas de datos en gobiernos, iniciativa privada y sociedad civil.
+- Meetup: https://www.meetup.com/es-ES/Madrid-Abriendo-Datos/events/237929954/
 
 #+BEGIN_HTML
 <img src="https://github.com/medialab-prado/diadatosabiertos2017/blob/master/logo_madrid_retocado.svg.png" alt="Imagen del logo del Día de los Datos Abiertos, personalizado para Madrid" title="Open Data Day Madrid" />
 
 #+END_HTML
 
-Todos los trabajos que se realizan son abiertos para usarse y re-usarse. La convocatoria internacional ha propuesto cuatro áreas claves sobre las que trabajar y una que añadimos nosotrxs:
+* Agenda
 
-1. Datos abiertos de investigación
-2. Rastro de los flujos del dinero público
-3. Datos abiertos sobre medio ambiente
-4. Datos abiertos sobre derechos humanos
-5. La España vacía
-
-* La España vacía
-
-/La España vacía/ es la temática propuesta para el [[http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia][V taller de producción de periodismo de datos]] que celebraremos en tres fines de semana de abril, mayo y junio de 2017 y cuya [[http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia-convocatoria-de-proyectos][convocatoria de proyectos]] se encuentra abierta desde el 2 de febrero hasta el 5 de marzo. En esta edición, os animamos a que las propuestas sean en abierto y puedan trabajarse previamente los conjuntos de datos con los que realizar los proyectos.
-
-Tanto si tu proyecto está falto de datos como si los tiene muy consolidados, os animamos a empezar a compartirlos este día.
-
-* Participa en el día de los datos abiertos
-
-No te importe si tienes una idea o proyecto distinto de los referidos. Si tienes una idea que use datos abiertos, quieres encontrar un proyecto interesante para contribuir, aprender sobre cómo visualizar o analizar datos o simplemente quieres ver lo que está pasando, entonces ¡tienes que venir! La participación es un valor central del hackatón, no importa qué habilidades tengas o cuáles sean tus intereses.
-
-Te esperamos en el Auditorio de Medialab-Prado a partir de las 10 de la mañana del sábado 4 de marzo de 2017. 
-
-No olvides visitar la [[http://opendataday.org][web oficial]] y la [[https://docs.google.com/spreadsheets/d/1cV43fuzwy2q2ZKDWrHVS6XR4O8B01eLevh4PD6nCENE/edit#gid%3D98436325][lista completa de eventos]]. 
-
-* ¿Qué llevar?
-
-¡Cualquier cosa! Lleva tu portátil, laptop, celular o cualquier otro dispositivo. Pero, sobre todo, tu energía y tu cerebro. Estamos intentando hacer muy práctico este evento, entonces siéntete con la libertad de traer todos tus locos dispositivos 
-
-* Proyectos
-
-Si crees que encontraste un dataset que es interesante y podría ser útil para una app o una visualización, [[https://github.com/medialab-prado/diadatosabiertos2017/edit/master/Readme.org][edita esta página]] y propón un cambio.
-
-Este es el listado de proyectos que se desarrollaron en 2016:
-
-- Farolas de Madrid, por Óscar Corcho de OEG-UPM
-- RERA, por @flowsta
-- Parlamentos de cristal, por Javier Urrea
-
-¿Te atreves a buscar datos y liberarlos con nosotrxs? Mira las propuestas para este año:
+- 09:30, Bienvenida y networking
+- 09:45, Presentación de la agenda del día
+- 09:50, Presentación de proyectos
+- 10:05, Presentación de colaboradorxs
+- 10:15, Formación de equipos.
+- 10:30-11:30, Trabajo en equipo y Taller de [[http://openclio.org/][Open Clio]], /una cronología universal online/, con Julio Pérez Díaz (CCHS, CSIC) y Javier Galeano Prieto (ETSIAB, UPM)
+- 11:30-12:30, trabajo en equipo
+- 12:30-13:00, Conexión con otras ciudades
+- 13:00-14:00, Conversación con Christian Iaione: profesor agregado de Políticas Públicas en la Universidad Guglielmo Marconi de Roma, investigador en el Urban Law Center de la Fordham University y profesor visitante en la Universidad LUISS Guido Carli donde dirige el LabGov – LABoratory for the GOVernance of the Commons.
+- 14:00-15:00, descanso para comer (opcional)
+- 15:00-18:00, trabajo en equipo
+- 18:00-18:30, presentaciones de proyectos.
 
 * Propuestas 2017
 
@@ -90,22 +66,3 @@ Coordinado por Patricia Horrillo, [[http://medialab-prado.es/article/editatona-s
 
 Coordinado por @flowsta, tratará de liberar los datos de los ficheros RERA, Registros de Empresas con Riesgo de Amianto
 
-* Agenda
-
-- 09:30, Bienvenida y networking
-- 09:45, Presentación de la agenda del día
-- 09:50, Presentación de proyectos
-- 10:05, Presentación de colaboradorxs
-- 10:15, Formación de equipos.
-- 10:30-11:30, Trabajo en equipo y Taller de [[http://openclio.org/][Open Clio]], /una cronología universal online/, con Julio Pérez Díaz (CCHS, CSIC) y Javier Galeano Prieto (ETSIAB, UPM)
-- 11:30-12:30, trabajo en equipo
-- 12:30-13:00, Conexión con otras ciudades
-- 13:00-14:00, Conversación con Christian Iaione: profesor agregado de Políticas Públicas en la Universidad Guglielmo Marconi de Roma, investigador en el Urban Law Center de la Fordham University y profesor visitante en la Universidad LUISS Guido Carli donde dirige el LabGov – LABoratory for the GOVernance of the Commons.
-- 14:00-15:00, descanso para comer (opcional)
-- 15:00-18:00, trabajo en equipo
-- 18:00-18:30, presentaciones de proyectos.
-* Open Clio
-
-[[http://openclio.org/][Open Clio]] se define como una herramienta para la construcción de cronologías. Propone un banco de datos dual, que combine "nodos históricos" y vínculos entre tales nodos. Se pueden seleccionar o crear tales elementos y establecer vínculos.
-
-Parten de una definición operativa del "evento histórico", lo más económica y polivalente posible, con la que empezar a crear ítems, y desarrollar una primera versión para ensayar la capacidad del sistema, su configuración más conveniente y posibles desarrollos futuros.
