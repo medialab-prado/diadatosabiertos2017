@@ -1,4 +1,4 @@
-#+BLOG: blog.datalab.es
+#+BLOG: datalab.medialab-prado.es
 #+CATEGORY: 
 #+TAGS: 
 #+DESCRIPTION: 
@@ -59,11 +59,19 @@ Este es el listado de proyectos que se desarrollaron en 2016:
 * Propuestas 2017  					:TOC:
 
 ** Vocabularios para la iniciativa OjoAlData100
-
 El año anterior dentro de la iniciativa OjoAlData100 se definieron algunos conjuntos de datos que se considera que las ciudades deben tener publicados en sus portales de datos abiertos, a partir de este trabajo la idea es seleccionar uno de estos conjuntos de datos y trabajar en la construcción de un vocabulario que pueda ser utilizado por los Ayuntamientos de España para publicar datos dentro de sus portales OpenData.
 
 *** Objetivos
 - Dado un determinado conjunto de datos detectar los atributos comunes que los Ayuntamientos de Madrid tienen publicados o deberían publicar en sus portales y a partir de esto generar un vocabulario.
+- Generar ejemplos de cómo deberían publicarse estos datos.
+- Diseñar alguna aplicación que pueda beneficiarse de la utilización de estos datos.
+
+** Contaminación acústica
+
+El año anterior dentro de la iniciativa OjoAlData100 se definieron algunos conjuntos de datos que se considera que las ciudades deben tener publicados en sus portales de datos abiertos, a partir de este trabajo la Federación Española de Municipios y Provincias ha seleccionado los 20 más relevantes y de ellos hemos escogido el dataset de Contaminación Acústica para  trabajar en la construcción del vocabulario que represente estos datos.
+
+*** Objetivos
+- Generar el vocabulario del dataset de Contaminación Acústica
 - Generar ejemplos de cómo deberían publicarse estos datos.
 - Diseñar alguna aplicación que pueda beneficiarse de la utilización de estos datos.
 
@@ -75,8 +83,11 @@ El año anterior dentro de la iniciativa OjoAlData100 se definieron algunos conj
 - OWL
 - Html
 - Github
-
+- Protégé
+- OnToology
+*** Participa!
 Las ideas y sugerencias que se les ocurran acerca de este tema son bienvenidas, esperamos la colaboración de todos.
+
 
 ** Editatona de Mujeres Viajeras
 
@@ -96,7 +107,10 @@ Coordinado por @flowsta, tratará de liberar los datos de los ficheros RERA, Reg
 - 10:30-11:30, Trabajo en equipo y Taller de [[http://openclio.org/][Open Clio]], /una cronología universal online/, con Julio Pérez Díaz (CCHS, CSIC) y Javier Galeano Prieto (ETSIAB, UPM)
 - 11:30-12:30, trabajo en equipo
 - 12:30-13:00, Conexión con otras ciudades: Barcelona, Valencia, Granada...
-- 13:00-14:00, Conversación con [[http://medialab-prado.es/person/christian-iaione][Christian Iaione]]: profesor agregado de Políticas Públicas en la Universidad Guglielmo Marconi de Roma, investigador en el Urban Law Center de la Fordham University y profesor visitante en la Universidad LUISS Guido Carli donde dirige el LabGov – LABoratory for the GOVernance of the Commons.
+- 13:00-14:00, Conversación a tres:
+ - [[http://medialab-prado.es/person/christian-iaione][Christian Iaione]]: profesor agregado de Políticas Públicas en la Universidad Guglielmo Marconi de Roma, investigador en el Urban Law Center de la Fordham University y profesor visitante en la Universidad LUISS Guido Carli donde dirige el LabGov – LABoratory for the GOVernance of the Commons.
+ - [[http://medialab-prado.es/person/claudia-delso-carreira][Claudia Delso]], Concejal de Participación e innovación democrática del Ayuntamiento de La Coruña.
+ - [[http://medialab-prado.es/person/anamendezdeandes][Ana Méndez de Andés]], asesora del Área de Cultura del Ayuntamiento de Madrid.
 - 14:00-15:00, descanso para comer (opcional)
 - 15:00-18:00, trabajo en equipo
 - 18:00-18:30, presentaciones de proyectos.
