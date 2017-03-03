@@ -58,14 +58,6 @@ Este es el listado de proyectos que se desarrollaron en 2016:
 
 * Propuestas 2017  					:TOC:
 
-** Vocabularios para la iniciativa OjoAlData100
-El año anterior dentro de la iniciativa OjoAlData100 se definieron algunos conjuntos de datos que se considera que las ciudades deben tener publicados en sus portales de datos abiertos, a partir de este trabajo la idea es seleccionar uno de estos conjuntos de datos y trabajar en la construcción de un vocabulario que pueda ser utilizado por los Ayuntamientos de España para publicar datos dentro de sus portales OpenData.
-
-*** Objetivos
-- Dado un determinado conjunto de datos detectar los atributos comunes que los Ayuntamientos de Madrid tienen publicados o deberían publicar en sus portales y a partir de esto generar un vocabulario.
-- Generar ejemplos de cómo deberían publicarse estos datos.
-- Diseñar alguna aplicación que pueda beneficiarse de la utilización de estos datos.
-
 ** Contaminación acústica
 
 El año anterior dentro de la iniciativa OjoAlData100 se definieron algunos conjuntos de datos que se considera que las ciudades deben tener publicados en sus portales de datos abiertos, a partir de este trabajo la Federación Española de Municipios y Provincias ha seleccionado los 20 más relevantes y de ellos hemos escogido el dataset de Contaminación Acústica para  trabajar en la construcción del vocabulario que represente estos datos.
@@ -123,4 +115,9 @@ Parten de una definición operativa del "evento histórico", lo más económica 
 
 ¡Cualquier cosa! Lleva tu portátil, laptop, celular o cualquier otro dispositivo. Pero, sobre todo, tu energía y tu cerebro. Estamos intentando hacer muy práctico este evento, entonces siéntete con la libertad de traer todos tus locos dispositivos 
 
-* Formulario 						:TOC:
+* Colaboran
+
+#+BEGIN_HTML
+<ul> <li><img src="http://medialab-prado.es/mmedia/19/19913/500_0.png" border="0" alt="european-data-portal" width="140" /></li> <li><img src="http://medialab-prado.es/mmedia/19/19914/500_0.png" border="0" alt="odi_madrid" width="140" /></li> </ul> 
+#+END_HTML
+
